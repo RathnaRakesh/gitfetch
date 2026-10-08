@@ -5,6 +5,6 @@ b = int(input("Enter second number: "))
 if a > b:
     print("First number is largest")
 elif b > a:
-    print("Second number is largest")
+    print("Second number is small")
 else:
     print("Both numbers are double")
