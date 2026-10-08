@@ -7,4 +7,4 @@ if a > b:
 elif b > a:
     print("Second number is largest")
 else:
-    print("Both numbers are equal")
+    print("Both numbers are double")
