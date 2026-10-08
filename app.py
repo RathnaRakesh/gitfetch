@@ -3,7 +3,7 @@ a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 
 if a > b:
-    print("First number is largest")
+    print("First no is largest")
 elif b > a:
     print("Second number is small")
 else:
